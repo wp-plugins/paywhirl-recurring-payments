@@ -31,3 +31,10 @@ Of course you can! You can use our Widget Editor to choose your colors and you c
 
 Paywhirl is setup to be constantly in sync with Stripe. If you change something on Stripe, it will reflect in Paywhirl. Same goes for changing something on Paywhirl - it will be reflected in Stripe. Sometimes this process takes a few seconds.
 
+== Screenshots ==
+
+1. Paywhirl official website
+2. Paywhirl widget preview
+3. Ask your users questions when they create an account
+4. Collect shipping information and email address
+5. Securely accept recurring payments from credit or debit cards with Stripe
