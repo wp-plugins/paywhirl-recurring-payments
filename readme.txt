@@ -16,10 +16,6 @@ PAYWHIRL makes it incredibly easy to create and manage recurring subscription pl
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Get your Paywhirl API key at https://paywhirl.com
 1. Upload `paywhirl.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
