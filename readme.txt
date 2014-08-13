@@ -15,9 +15,9 @@ Create, Process & Manage Recurring Payments Simply & Securely with PayWhirl.
 = About PayWhirl =
 [PayWhirl Recurring Payments](https://paywhirl.com) makes it incredibly easy to create and manage recurring subscription plans on any website. It removes the hard work necessary to code all of the pages that allow your customers to sign-up for memberships, create accounts and manage their subscriptions. 
 
-Anyone with an wordpress site can setup the PayWhirl widget in just a few minutes and start collecting recurring payments immediately with Stripe.
+**Anyone with an wordpress site can setup the PayWhirl widget in just a few minutes and start collecting recurring payments immediately with Stripe.**
 
-= Automatic Payments =
+= Automatic Recurring Payments =
 Process recurring revenue (weekly,montly,annualy, etc.) by selling memberships, subscriptions and/or anything else that requires automatic recurring payments.
 
 = Secure Payments =
@@ -30,10 +30,10 @@ Get creative with PayWhirl's visual editor! You can easily change the look of yo
 Need to ask your customers specific questions before they checkout? No Problem! On PayWhirl.com you can add custom questions that must be answered before checkout. This information is attached to your subscriber profiles and can be viewed or updated at anytime in the back of PayWhirl. Your customers will have the ability to login and manage their profile information securely (credit card numbers, address, custom questions, etc.) as well.
 
 = PayWhirl Tutorials =
-*[How To Create Recurring Payment Plans](http://support.paywhirl.com/creating-a-plan), *[How To Add Custom Profile Questions](http://support.paywhirl.com/adding-or-editing-profile-questions),*[How To Design Your PayWhirl Widget](http://support.paywhirl.com/editing-widget-colors), *[How To Manage Your Subscibers](http://support.paywhirl.com/managing-your-customers)
+* [How To Create Recurring Payment Plans](http://support.paywhirl.com/creating-a-plan), * [How To Add Custom Profile Questions](http://support.paywhirl.com/adding-or-editing-profile-questions), * [How To Design Your PayWhirl Widget](http://support.paywhirl.com/editing-widget-colors), * [How To Manage Your Subscibers](http://support.paywhirl.com/managing-your-customers)
 
 = PayWhirl Support =
-*[PayWhirl.com Live Chat](https://www.paywhirl.com/), *[PayWhirl Support Website](http://support.paywhirl.com/),* Email: paywhirl@yovigo.com
+* [PayWhirl.com Live Chat](https://www.paywhirl.com/), * [PayWhirl Support Website](http://support.paywhirl.com/), * Email: paywhirl@yovigo.com
 
 == Installation ==
 
