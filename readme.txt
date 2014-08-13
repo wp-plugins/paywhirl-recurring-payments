@@ -8,7 +8,7 @@ Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Paywhirl lets you accept subscription payments on your Wordpress site.
+Paywhirl lets you accept subscription payments on your Wordpress site!
 
 == Description ==
 
