@@ -30,10 +30,15 @@ Get creative with PayWhirl's visual editor! You can easily change the look of yo
 Need to ask your customers specific questions before they checkout? No Problem! On PayWhirl.com you can add custom questions that must be answered before checkout. This information is attached to your subscriber profiles and can be viewed or updated at anytime in the back of PayWhirl. Your customers will have the ability to login and manage their profile information securely (credit card numbers, address, custom questions, etc.) as well.
 
 = PayWhirl Tutorials =
-* [How To Create Recurring Payment Plans](http://support.paywhirl.com/creating-a-plan), * [How To Add Custom Profile Questions](http://support.paywhirl.com/adding-or-editing-profile-questions), * [How To Design Your PayWhirl Widget](http://support.paywhirl.com/editing-widget-colors), * [How To Manage Your Subscibers](http://support.paywhirl.com/managing-your-customers)
+* [How To Create Recurring Payment Plans](http://support.paywhirl.com/creating-a-plan), 
+* [How To Add Custom Profile Questions](http://support.paywhirl.com/adding-or-editing-profile-questions), 
+* [How To Design Your PayWhirl Widget](http://support.paywhirl.com/editing-widget-colors), 
+* [How To Manage Your Subscibers](http://support.paywhirl.com/managing-your-customers)
 
 = PayWhirl Support =
-* [PayWhirl.com Live Chat](https://www.paywhirl.com/), * [PayWhirl Support Website](http://support.paywhirl.com/), * Email: paywhirl@yovigo.com
+* [PayWhirl.com Live Chat](https://www.paywhirl.com/), 
+* [PayWhirl Support Website](http://support.paywhirl.com/), 
+* Team Email: paywhirl@yovigo.com
 
 == Installation ==
 
