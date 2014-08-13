@@ -13,7 +13,9 @@ Create, Process & Manage Recurring Payments Simply & Securely with PayWhirl.
 == Description ==
 
 = About PayWhirl =
-[PayWhirl Recurring Payments](https://paywhirl.com) makes it incredibly easy to create and manage recurring subscription plans on any website. It removes the hard work necessary to code all of the pages that allow your customers to sign-up for memberships, create accounts and manage their subscriptions. **Anyone with a WordPress site can setup the PayWhirl widget in just a few minutes and start collecting recurring payments immediately with Stripe.**
+[PayWhirl Recurring Payments](https://paywhirl.com) makes it incredibly easy to create and manage recurring subscription plans on any website. It removes the hard work necessary to code all of the pages that allow your customers to sign-up for memberships, create accounts and manage their subscriptions. 
+
+**Anyone with a WordPress site can setup the PayWhirl widget in just a few minutes and start collecting recurring payments immediately with Stripe.**
 
 **[VISIT PAYWHIRL.COM TO LEARN MORE](https://paywhirl.com)**
 
