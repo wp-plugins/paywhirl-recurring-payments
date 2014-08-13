@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Paywhirl
+Plugin Name: PayWhirl
 Plugin URI: https://paywhirl.com
 Description: PAYWHIRL makes it incredibly easy to create and manage recurring subscription plans. It removes the hard work necessary to code all the views that allow your users to sign-up for memberships, create user accounts and manage their customer subscriptions. Anyone with an existing website can setup our widget in just a few minutes and start collecting recurring payments immediately, whereas with custom development, it can weeks or months to integrate.
 Version: 0.1
