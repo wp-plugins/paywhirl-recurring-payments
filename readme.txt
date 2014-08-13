@@ -33,7 +33,7 @@ Need to ask your customers specific questions before they checkout? No Problem! 
 *[How To Create Recurring Payment Plans](http://support.paywhirl.com/creating-a-plan), *[How To Add Custom Profile Questions](http://support.paywhirl.com/adding-or-editing-profile-questions),*[How To Design Your PayWhirl Widget](http://support.paywhirl.com/editing-widget-colors), *[How To Manage Your Subscribers](http://support.paywhirl.com/managing-your-customers)
 
 = PayWhirl Support =
-*[PayWhirl.com Live Chat](https://www.paywhirl.com/), *[PayWhirl Support Website](http://support.paywhirl.com/),* Email: paywhirl@yovigo.com
+*[PayWhirl.com Live Chat](https://www.paywhirl.com/), *[PayWhirl Support Website](http://support.paywhirl.com/), *Email: paywhirl@yovigo.com
 
 == Installation ==
 
