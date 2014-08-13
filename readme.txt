@@ -8,7 +8,7 @@ Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create, Process & Manage Recurring Payments Simply & Securely with PayWhirl.
+Create, Process & Manage Recurring Payments Simply & Securely with PayWhirl!
 
 == Description ==
 
