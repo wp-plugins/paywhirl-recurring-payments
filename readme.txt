@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: paywhirl
 Donate link: http://paywhirl.com/
-Tags: subscription,widget,paywhirl,recurring,payments,stripe,recurring-billing,billing
+Tags: subscription,widget,paywhirl,recurring,payments,stripe,recurring-billing,billing,credit card,e-commerce,ecommerce,credit,orders,shopping,subscription box,monthly
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 1.2
