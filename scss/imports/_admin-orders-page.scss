@@ -1,0 +1,63 @@
+
+
+// Admin Orders Page styling 
+
+
+.paywhirl-orders-page {
+
+	* {
+		box-sizing: border-box;
+	}
+
+	.page-selector {
+		float: right;
+		margin: 15px 15px 0 0;
+
+		.page-button {
+			color: #ddd;
+			padding: 0 5px;
+			cursor: pointer;
+			font-size: 25px;
+			font-weight: 200;
+			display: inline-block;
+			font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+
+			&.active {
+				color: #999;
+			}
+		}
+	}
+
+	.orders-table {
+
+		.header-row {
+			overflow: hidden;
+			padding-top: 5px;
+
+			.cell {
+				color: #999;
+				padding: 7px;
+				cursor: pointer;
+			}
+
+			&:hover {
+				color: #43aee0;
+			}
+		}
+
+		.row {
+			cursor: pointer;
+			overflow: hidden;
+
+			.cell {
+				color: #666;
+				padding: 7px;
+			}
+
+			&:hover {
+				color: #43aee0;
+				background: #fafafa;
+			}
+		}
+	}
+}

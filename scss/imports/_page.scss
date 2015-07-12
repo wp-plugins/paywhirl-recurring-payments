@@ -1,0 +1,88 @@
+
+
+// Page styling
+
+
+.paywhirl-page {
+	height: 100%;
+	background: white;
+	position: relative;
+
+	header {
+		padding: 10px;
+		background: #032537;
+
+		.logo {
+			width: 291px;
+			height: 36px;
+			display: inline-block;
+			background-image: url('../images/logo.png');
+		}
+	}
+
+	.page-title {
+		color: white;
+		font-size: 24px;
+		font-weight: 700;
+		padding: 12px 25px;
+		text-align: center;
+		background: #43aee0;
+	}
+
+	.paywhirl-button {
+		color: white;
+		cursor: default;
+		font-size: 11px;
+		padding: 3px 10px;
+		text-align: center;
+		border-radius: 3px;
+		
+		&.green-button {
+			background: #5cb85c;
+		}
+
+		&.yellow-button {
+			background: #f0ad4e;
+		}
+
+		&.red-button {
+			background: #d9534f;
+		}
+
+		&.grey-button {
+			background: #b2bcd1;
+		}
+	}
+
+	.divider {
+		margin: 3px 0;
+		border-bottom: 1px solid #e8e8e8;
+	}
+
+	.overflow {
+		overflow: auto;
+	}
+
+	.center-contents {
+		text-align: center;
+	}
+
+	&.flex-container, .flex-container {
+		display: flex;
+		display: -webkit-flex;
+		flex-direction: column;
+		-webkit-flex-direction: column;
+
+		.flex {
+			flex: 1;
+			-webkit-flex: 1;
+			position: relative;
+
+			& > div {
+				width: 100%;
+				height: 100%;
+				position: absolute;
+			}
+		}
+	}
+}

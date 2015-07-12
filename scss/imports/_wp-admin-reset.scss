@@ -1,0 +1,45 @@
+
+
+/**
+ * Admin Reset
+ *
+ * Since by default, the backend of Wordpress does not trickle down the height of the full page -
+ * meaning, if we were to give our content's parent container a height of 100%, the browser would not respond.
+ * This include resets the wordpress parent containers to trickle down the full height of the screen to our classes.
+ * This is done using flexbox which is a relatively new css3 attribute that does have full browser support
+ */
+
+
+#wpfooter {
+	display: none;
+}
+
+#wpwrap {
+	display: flex;
+	display: -webkit-box;
+	flex-direction: column;
+	-webkit-box-orient: vertical;
+
+	#wpcontent {
+		flex: 1;
+		padding: 0;
+		display: flex;
+		-webkit-box-flex: 1;
+		display: -webkit-box;
+		flex-direction: column;
+		-webkit-box-orient: vertical;
+
+		#wpbody {
+			flex: 1;
+			position: relative;
+			-webkit-box-flex: 1;
+
+			#wpbody-content {
+				padding: 0;
+				width: 100%;
+				height: 100%;
+				position: absolute;
+			}
+		}
+	}
+}

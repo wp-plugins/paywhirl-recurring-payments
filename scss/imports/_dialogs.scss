@@ -1,0 +1,172 @@
+
+
+// Dialogs styling
+
+
+.paywhirl-dialog-overlay {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background: rgba(255, 255, 255, 0.6);	
+}
+
+.paywhirl-dialog {
+	position: absolute;
+	background: white;
+	padding: 10px 15px;
+	border-radius: 5px;
+	display: inline-block;
+	box-shadow: 0 0 20px #999;
+
+	& > div {
+		height: 100%;
+	}
+
+	.header {
+		position: relative;
+		text-align: center;
+		
+		.title {
+			color: #999;
+			margin: 3px;
+			font-size: 26px;
+			font-weight: 300;
+			display: inline-block;
+		}
+
+		.close-button {
+			top: 2px;
+			right: 2px;
+			width: 18px;
+			height: 18px;
+			cursor: pointer;
+			position: absolute;
+			background-image: url('../images/close-button.png');
+			background-size: 100% 100%;
+		}
+	}
+
+	.grey-box {
+		padding: 3px;
+		margin: 15px 0;
+		background: #fcfcfc;
+		border: 1px solid #ddd;
+	}
+
+	.label {
+		color: #032537;
+		font-size: 15px;
+		padding: 5px 7px;
+	}
+
+	.details {
+		padding: 7px;
+	}
+}
+
+.order-details-dialog {
+	top: 10%;
+	left: 10%;
+	width: 80%;
+	height: 80%;
+
+	.content {
+
+		& > div {
+			height: 100%;
+		}
+
+		.user-name {
+			margin: 3px 0;
+			color: #43aee2;
+			font-size: 22px;
+			font-weight: 300;
+		}
+
+		.order-date {
+			color: #999;
+			float: right;
+			margin: 3px 0;
+			font-size: 16px;
+			font-weight: 300;
+			display: inline-block;
+		}
+
+		.header-row {
+			padding: 5px;
+			overflow: hidden;
+		}
+
+		.row {
+			padding: 5px;
+			background: white;
+			overflow: hidden;
+		}
+
+		.paywhirl-button {
+			margin: 0 3px;
+
+			&.fulfillment-status-button {
+				cursor: pointer;
+			}
+		}
+	}
+}
+
+.subscriber-details-dialog {
+
+	.content {
+
+		& > div {
+			height: 100%;
+		}
+
+		.paywhirl-link {
+			margin-top: 12px;
+			float: right;
+
+			a {
+				font-size: 12px;
+				text-decoration: none;
+			}
+		}
+
+		.name {
+			margin: 3px 0;
+			color: #43aee2;
+			font-size: 22px;
+			font-weight: 300;
+		}
+	}
+
+	@media (min-width: 0px) {
+		top: 15%;
+		left: 10%;
+		width: 80%;
+		height: 70%;
+	}
+
+	@media (min-width: 550px) {
+		top: 10%;
+		left: 20%;
+		width: 60%;
+		height: 80%;
+	}
+
+	@media (min-width: 850px) {
+		top: 25%;
+		left: 25%;
+		width: 50%;
+		height: 50%;
+	}
+
+	@media (min-width: 1150px) {
+		top: 30%;
+		left: 30%;
+		width: 40%;
+		height: 40%;
+	}
+
+}

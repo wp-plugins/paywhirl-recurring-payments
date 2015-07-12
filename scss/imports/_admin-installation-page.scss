@@ -1,0 +1,74 @@
+
+
+// Admin Installation Page styling 
+
+
+.paywhirl-installation-page {
+
+	* {
+		box-sizing: border-box;
+	}
+
+	.intro {
+		color: white;
+		padding: 15px;
+		font-size: 15px;
+		font-weight: 200;
+		text-align: center;
+		margin-bottom: 15px;
+		background: #d9534f;
+	}
+
+	.step {
+		padding: 15px;
+
+		.label {
+			color: #aaa;
+			font-size: 30px;
+			font-weight: 200;
+			font-style: italic;
+			display: inline-block;
+			font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+		}
+		
+		.details {
+			color: #999;
+			padding: 5px;
+			font-size: 15px;
+			display: inline-block;
+		}
+	}
+
+	.webhook {
+		color: white;
+		padding: 15px;
+		font-size: 15px;
+		margin: 15px 50px;
+		text-align: center;
+		background: #43aee0;
+	}
+
+	.image-step-1 {
+		margin: auto;
+		width: 198px;
+		height: 150px;
+		background: url('../images/installation-step-1.png');
+		background-size: 100% 100%;
+	}
+
+	.image-step-2 {
+		margin: auto;
+		width: 332px;
+		height: 150px;
+		background: url('../images/installation-step-2.png');
+		background-size: 100% 100%;
+	}
+
+	.image-step-3 {
+		margin: auto;
+		width: 350px;
+		height: 55px;
+		background: url('../images/installation-step-3.png');
+		background-size: 100% 100%;
+	}
+}

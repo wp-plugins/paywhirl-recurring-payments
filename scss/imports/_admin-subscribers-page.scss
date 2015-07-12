@@ -1,0 +1,44 @@
+
+
+// Admin Subscribers Page styling 
+
+
+.paywhirl-subscribers-page {
+
+	* {
+		box-sizing: border-box;
+	}
+
+	.subscribers-table {
+
+		.header-row {
+			overflow: hidden;
+			padding-top: 5px;
+
+			.cell {
+				color: #999;
+				padding: 7px;
+				cursor: pointer;
+			}
+
+			&:hover {
+				color: #43aee0;
+			}
+		}
+
+		.row {
+			cursor: pointer;
+			overflow: hidden;
+
+			.cell {
+				color: #666;
+				padding: 7px;
+			}
+
+			&:hover {
+				color: #43aee0;
+				background: #fafafa;
+			}
+		}
+	}
+}
