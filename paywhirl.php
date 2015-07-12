@@ -5,7 +5,7 @@
  * Plugin Name: Paywhirl for Wordpress
  * Plugin URI: http://www.paywhirl.com
  * Description: Provides Paywhirl functionality for Wordpress.
- * Version: 1.0.0
+ * Version: 1.2
  * Author: Paywhirl
  * Author URI: http://www.paywhirl.com
  * License: GPL2
